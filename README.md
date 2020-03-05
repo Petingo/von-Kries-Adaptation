@@ -4,7 +4,7 @@
 
 |                           原始影像                           |                             D65                              |                            12000K                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://raw.githubusercontent.com/Petingo/von-Kries-Adaptation/master/image/test.png" alt="test" style="zoom:50%; margin: 12pt 0pt;" /> | <img src="/Users/petingo/p/auto-white-balance/result_D65.png" alt="test" style="zoom:50%; margin: 12pt 0pt;" /> | <img src="/Users/petingo/p/auto-white-balance/result_12000K.png" alt="test" style="zoom:50%; margin: 12pt 0pt;" /> |
+| <img src="https://raw.githubusercontent.com/Petingo/von-Kries-Adaptation/master/image/test.png" alt="test" style="zoom:50%; margin: 12pt 0pt;" /> | <img src="https://raw.githubusercontent.com/Petingo/von-Kries-Adaptation/master/image/result_D65.png" alt="test" style="zoom:50%; margin: 12pt 0pt;" /> | <img src="https://raw.githubusercontent.com/Petingo/von-Kries-Adaptation/master/image/result_12000K.png" alt="test" style="zoom:50%; margin: 12pt 0pt;" /> |
 
 ## 說明
 
@@ -37,5 +37,5 @@ img_target = vonKriesAdaptor.adapt(img_source, ref_white)
 
 互動式的光源轉換，讀入指定影像後可輸入色溫並即時轉換與顯示。
 
-![interactive_example](/Users/petingo/p/auto-white-balance/interactive_example.png)
+![interactive_example](https://raw.githubusercontent.com/Petingo/von-Kries-Adaptation/master/image/interactive_example.png)
 
