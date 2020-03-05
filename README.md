@@ -4,7 +4,7 @@
 
 |                           原始影像                           |                             D65                              |                            12000K                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="/Users/petingo/p/auto-white-balance/test.png" alt="test" style="zoom:50%; margin: 12pt 0pt;" /> | <img src="/Users/petingo/p/auto-white-balance/result_D65.png" alt="test" style="zoom:50%; margin: 12pt 0pt;" /> | <img src="/Users/petingo/p/auto-white-balance/result_12000K.png" alt="test" style="zoom:50%; margin: 12pt 0pt;" /> |
+| <img src="https://raw.githubusercontent.com/Petingo/von-Kries-Adaptation/master/image/test.png" alt="test" style="zoom:50%; margin: 12pt 0pt;" /> | <img src="/Users/petingo/p/auto-white-balance/result_D65.png" alt="test" style="zoom:50%; margin: 12pt 0pt;" /> | <img src="/Users/petingo/p/auto-white-balance/result_12000K.png" alt="test" style="zoom:50%; margin: 12pt 0pt;" /> |
 
 ## 說明
 
